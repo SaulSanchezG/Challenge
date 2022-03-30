@@ -1,0 +1,20 @@
+{
+  "name": "apex_challenge",
+  "version": "1.0.0",
+  "description": "Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "Challenge",
+    "APEX"
+  ],
+  "author": "Saul Sanchez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.2",
+    "cypress-xpath": "^1.6.2"
+  }
+}

@@ -1,0 +1,9 @@
+export const email = `saul.s+${Date.now()}@gmail.com`;
+export const password = "123KL@@12as";
+export const name = "Ramiro";
+export const lastName = "Lopez";
+export const birthDay = "22";
+export const monthOfBirth = "Sep";
+export const bornYear = "1998";
+export const gender = "male";
+export const phoneNumber = "6693123244";
