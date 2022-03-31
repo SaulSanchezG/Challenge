@@ -18,8 +18,8 @@ In this framework you will find different kind of folders and files but the most
  - resourses: in resourses you will find three data files (createAccountData.js, loginData.js and productData.js) that contains all the data that the test cases need to run successfully.
  - tests: you will find three files (CreateAccountTests.js, LoginTests.js and ShoppingCartTests.js)
 
-|  folders|files  |	|
-|--|--|--|--|
+|  folders|files  |	
+|----|----|
 | pages |CreateAccountPage.js  |
 |		|LoginPage.js|
 |		|HomePage.js|
